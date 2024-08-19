@@ -15,5 +15,5 @@ I'm a Software Engineer with a robust foundation in architecture and environment
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mulikatgiwa&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulikatgiwa&langs_count=8&layout=compact&hide_border=true" alt="Mulikat's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulikatgiwa&langs_count=8&layout=compact&hide_border=true" alt="Mulikat's GitHub stats" /> |
 | ------------- | ------------- |
